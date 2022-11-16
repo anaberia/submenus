@@ -7,7 +7,10 @@ import Submenu from "./Submenu";
 function App() {
   return (
     <>
-      <h2>menus project setup</h2>
+      <Navbar />
+      <Hero />
+      <Sidebar />
+      <Submenu />
     </>
   );
 }
