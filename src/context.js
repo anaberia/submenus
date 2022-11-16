@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useContext } from "react";
 
 const context = () => {
   return <h2>Context</h2>;
